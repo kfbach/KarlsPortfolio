@@ -1,5 +1,3 @@
-Syntax highlighted code block
-
 # This is my glorious portfolio page
 
 
